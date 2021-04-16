@@ -1,0 +1,1 @@
+Simple SQL sample showcasing initial SQL support
